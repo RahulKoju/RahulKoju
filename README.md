@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend Development<br>🤝 I’m looking for help with Google OAuth<br>🌱 I’m currently learning Laravel and Linux<br>💬 Ask me about Frontend and Backend Development
+🔭 I’m currently working on Backend Development<br>🌱 I’m currently learning Laravel and Linux<br>💬 Ask me about Frontend and Backend Development
 
 
 ## 🌐 Socials:
