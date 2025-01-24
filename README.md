@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm Rahul Koju, a passionate developer keen on bui
 ### Database Management
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
 ### DevOps & Tools
 - **Version Control**: Git, Github 
 - **Development Environment**: Ubuntu
@@ -55,7 +54,8 @@ Welcome to my GitHub profile! I'm Rahul Koju, a passionate developer keen on bui
 
 ## 📫 Contact Me
 - **Email**: [rahulkoju69@gmail.com](mailto:rahulkoju69@gmail.com)
+- **Portfolio**: [rahulkoju.vercel.app](https://rahulkoju.vercel.app/)
 
-[![](https://visitcount.itsvg.in/api?id=RahulKoju&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRahulKoju&label=Profile%20Views&countColor=%23263759)](https://visitcount.itsvg.in)
 
 Feel free to explore my repositories and drop a ⭐ if you find something interesting!
