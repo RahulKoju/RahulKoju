@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I'm Rahul Koju, a passionate developer keen on bui
 
 ## 📫 Contact Me
 - **Email**: [rahulkoju69@gmail.com](mailto:rahulkoju69@gmail.com)
-- **Portfolio**: [rahulkoju.com.np]([https://rahulkoju.vercel.app/](https://www.rahulkoju.com.np/))
+- **Portfolio**: [rahulkoju.com.np](https://www.rahulkoju.com.np/)
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRahulKoju&label=Profile%20Views&countColor=%23263759)](https://visitcount.itsvg.in)
 
