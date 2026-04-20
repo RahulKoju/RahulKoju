@@ -9,6 +9,6 @@ Trying to get better at **clean code, system design, and real-world engineering*
 ---
 
 ## 📫 Contact Me
-- **Email**: [rahulkoju69@gmail.com](mailto:rahulkoju69@gmail.com)
+- **Email**: [contact@rahulkoju.com.np](mailto:contact@rahulkoju.com.np)
 - **Portfolio**: [rahulkoju.com.np](https://www.rahulkoju.com.np/)
 - **LinkedIn**: https://www.linkedin.com/in/rahul-koju/
